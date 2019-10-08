@@ -115,7 +115,7 @@ This is where you're JavaScript skills are really going to be stretched. Remembe
 - There are plenty of examples of calculator logic available, but try writing on your own. And don't worry if it isn't fully functional, you'll have time come back to it and get it working. It's actually a really fun exercise to work on in small increments over time.
 - Most important have fun!!!
 
-## Stretch Problems
+## Stretch Problems1
 
 Do not attempt stretch problems until MVP has been reached and a final commit has been made.
 
