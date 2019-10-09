@@ -1,0 +1,41 @@
+.container {
+    background-color: #c00025;
+    width: 100%;
+    margin: 0 auto;
+    max-width: 1250px;
+    border-radius: 15px;
+    border: 2px solid grey;
+    padding-bottom: 25px;
+}
+.display {
+    margin: 55px;
+    height: 100px;
+    width: 450px;
+    border-radius: 50px;
+    color: white;
+    background-color: #322c2d;
+    box-shadow: 1px 1px #322c2d;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    
+    
+    font-size: 5.0rem;
+  }
+
+  .logo {
+      margin: 20px;
+  }
+  section {
+      display: flex;
+     
+  }
+
+  button {
+      font-size: 2.5rem;
+      border-radius: 45px;
+      width: 96px;
+      height: 96px;
+margin: 10px;
+box-shadow: 1px 1px #322c2d;
+  }
